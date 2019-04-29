@@ -1,0 +1,97 @@
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Web.dll.config
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Web.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Web.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\BLL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\DAL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Newtonsoft.Json.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Net.Http.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Helpers.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Mvc.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Razor.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\BLL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\DAL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\Newtonsoft.Json.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Net.Http.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Helpers.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Mvc.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.Razor.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\serku\Desktop\AppProject\AppProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\AppProject\AppProject\Web\obj\Debug\Web.dll
+C:\Users\serku\Desktop\AppProject\AppProject\Web\obj\Debug\Web.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Web.dll.config
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Web.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Web.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\BLL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\DAL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Newtonsoft.Json.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Net.Http.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Helpers.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Mvc.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Razor.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\BLL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\DAL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\Newtonsoft.Json.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Net.Http.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Helpers.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Mvc.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.Razor.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\obj\Debug\Web.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\Web\obj\Debug\Web.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Web.dll.config
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Web.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Web.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\BLL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\DAL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Newtonsoft.Json.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Helpers.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Http.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Mvc.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Razor.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Net.Http.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\BLL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\BLL.dll.config
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\DAL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\Newtonsoft.Json.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Helpers.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Http.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Mvc.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.Razor.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\bin\System.Net.Http.xml
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\obj\Debug\Web.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\Web\obj\Debug\Web.pdb

@@ -1,0 +1,16 @@
+C:\Users\serku\Desktop\AppProject\AppProject\DAL\bin\Debug\DAL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\DAL\bin\Debug\DAL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\DAL\obj\Debug\DAL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\DAL\obj\Debug\DAL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\DAL\bin\Debug\DAL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\DAL\bin\Debug\DAL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\DAL\obj\Debug\DAL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\DAL\obj\Debug\DAL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\bin\Debug\DAL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\bin\Debug\DAL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\obj\Debug\DAL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,26 @@
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\bin\Debug\BLL.dll.config
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\bin\Debug\BLL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\bin\Debug\BLL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\bin\Debug\DAL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\bin\Debug\DAL.pdb
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\obj\Debug\BLL.dll
+C:\Users\serku\Desktop\AppProject\AppProject\BLL\obj\Debug\BLL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\bin\Debug\BLL.dll.config
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\bin\Debug\BLL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\bin\Debug\BLL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\bin\Debug\DAL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\bin\Debug\DAL.pdb
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\obj\Debug\BLL.dll
+C:\Users\serku\Desktop\caner proje\AppProject\AppProject\BLL\obj\Debug\BLL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\bin\Debug\BLL.dll.config
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\bin\Debug\BLL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\bin\Debug\BLL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\bin\Debug\DAL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\bin\Debug\DAL.pdb
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\obj\Debug\BLL.dll
+C:\Users\inali\OneDrive\Masaüstü\AppProject\AppProject\BLL\obj\Debug\BLL.pdb

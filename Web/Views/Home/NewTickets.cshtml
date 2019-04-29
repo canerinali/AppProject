@@ -1,0 +1,167 @@
+﻿@model DAL.Dto.PassengerAndTicketDto
+@{
+    ViewBag.Title = "NewTickets";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+<script src="~/vendor/jquery/jquery.js"></script>
+
+<script>
+   
+    var x = 1;
+    $(document).ready(function () {
+       
+       
+        addform(0);
+       
+        $(".addpassenger").click(function () {
+          
+            addform(x);
+            x++;
+        })
+      
+
+    });
+    function addform(x) {
+         
+        $('#passengerDiv').append(
+             
+            $('<input />', { class: 'form-control', name: '[' + x + '].Name', placeholder: 'Ad', type: 'text', required: 'required' }),
+            $('<input />', { class: 'form-control', name: '[' + x + '].surname', placeholder: 'Soy Ad', type: 'text', required: 'required' }),
+            $('<input />', { class: 'form-control', name: '[' + x + '].Age', placeholder: 'Yaş', type: 'text', required: 'required' }),
+            $('<input />', { class: 'form-control', name: '[' + x + '].BirthDate', placeholder: 'Doğum Tarihi (ör : 15.04.2018)', type: 'text', required: 'required' }),
+            $('<input />', { class: 'form-control', name: '[' + x + '].Tc', placeholder: 'TC', type: 'text' }),
+            $('<input />', { class: 'form-control', name: '[' + x + '].PassportNo', placeholder: 'Pasaport', type: 'text' }),
+             
+            $('<br />')
+
+        )
+        //getPrice();
+
+    }
+    function getPrice() {
+        var toCityId = $(".ToCityId").val();
+        var fromCityId = $(".FromCityId").val();
+        
+        if (toCityId!=""&&fromCityId!="") {
+            $.ajax({
+                type: "post",
+                url: "/Home/GetPrice",
+                data: { toCityId: toCityId, fromCityId: fromCityId },
+                dataType: "json",
+                success: function (result) {
+                    if (result.price == 0) {
+                        $("#txtPrice").val(0);
+                        $("#btnKaydet").prop("disabled", true);
+                        $("#btnKaydet").text("Fiyat Seçmediniz.");
+                    } else {
+                        var price = x==0?x++:x;
+                        var newPrice = price * result.price;
+                        
+                        $("#txtPrice").val(newPrice);
+                        $("#btnKaydet").text("Kaydet");
+                        $("#btnKaydet").prop("disabled", false);
+                    }
+                   
+                },
+                error: function (msg) {
+                    alert(msg);
+                }
+            });
+        } else {
+            $("#txtPrice").val(0);
+            $("#btnKaydet").text("Fiyat Seçmediniz.");
+        }
+
+    }
+
+    function getCity() {
+        var companyId = $(".CompanyId").val();
+        $.ajax({
+            type: "post",
+            url: "/Home/GetFromAndToCity",
+            data: { companyId: companyId},
+            dataType: "json",
+            success: function (result) {
+                debugger
+                $('.ToCityId').empty();
+                $.each(result.price, function (key, value) {
+                    $('.ToCityId')
+                        .append($("<option></option>")
+                                   .attr("value", value.ToCityId)
+                                   .text(value.ToCityName));
+                });
+                $('.FromCityId').empty();
+                $.each(result.price, function (key, value) {
+                    $('.FromCityId')
+                        .append($("<option></option>")
+                                   .attr("value", value.FromCityId)
+                                   .text(value.FromCityName));
+                });
+                getPrice();
+            },
+            error: function (msg) {
+                alert(msg);
+            }
+        });
+    }
+</script>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Bilet Tanımı
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="input_fields_wrap" style="margin-left:  16px;margin-bottom: 10px;">
+                        <button class="btn btn-success addpassenger">Yolcu Ekle</button>
+
+                    </div>
+                    <div class="col-lg-12">
+                        @using (Html.BeginForm("NewTickets", "Home", FormMethod.Post, new { id = "frmTicket" }))
+                        {
+                          
+                                <div id="passengerDiv">
+
+                                </div>
+    <div class="form-group">
+        <label>Firma</label>
+        @Html.DropDownList("[0].CompanyId", new SelectList(ViewBag.company, "Id", "Name"), "-- Firma Seçiniz --", new { @class = "form-control CompanyId", onchange = "getCity()" })
+    </div>
+                            <div class="form-group">
+                                <label>Kalkış Noktası</label>
+                                <select name="[0].ToCityId" class="form-control ToCityId" onchange="getPrice()">
+                                    
+                                </select>
+                                @*@Html.DropDownList("[0].ToCityId", new SelectList(), "-- Kalkış Noktası Seçiniz --", new { @class = "form-control ToCityId", onchange = "getPrice()" })*@
+                            </div>
+                            <div class="form-group">
+                                <label>Varış Noktası</label>
+                                <select name="[0].FromCityId" class="form-control FromCityId" onchange="getPrice()">
+                                    
+                                </select>
+                                @*@Html.DropDownList("[0].FromCityId", new SelectList(ViewBag.fromCity, "Id", "Name"), "-- Varış Noktası Seçiniz --", new { @class = "form-control FromCityId", onchange = "getPrice()" })*@
+                            </div>
+                            @*<div class="form-group">
+                                <label>Kaç Kişi</label>
+                                @Html.TextBox("[0].TotalCount", null, new { @class = "form-control", disabled = "disabled" })
+                            </div>*@
+                            <div class="form-group has-success">
+                                <label class="control-label" for="inputSuccess">Fiyat</label>
+                                <input type="text" class="form-control" name="[0].Price" id="txtPrice" disabled="disabled">
+                            </div>
+                            <button type="submit" class="btn btn-default" id="btnKaydet" disabled="disabled">Kaydet</button>
+
+                        }
+                    </div>
+                    <!-- /.col-lg-6 (nested) -->
+                    <!-- /.col-lg-6 (nested) -->
+                </div>
+                <!-- /.row (nested) -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
